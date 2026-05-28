@@ -238,4 +238,7 @@ if st.button("🔍 Predict Insurance Charges", use_container_width=True):
 
 st.markdown("<br><hr>", unsafe_allow_html=True)
 
-st.caption("Developed using Streamlit and Scikit-learn")
+st.caption(
+    "Mini ML Project by Muhammad Qasim | "
+    "[GitHub](http://github.com/neoqasim/)"
+)
