@@ -240,5 +240,5 @@ st.markdown("<br><hr>", unsafe_allow_html=True)
 
 st.caption(
     "Mini ML Project by Muhammad Qasim | "
-    "[GitHub](http://github.com/neoqasim/)"
+    "[See Code](https://github.com/neoqasim/insuranceModel)"
 )
