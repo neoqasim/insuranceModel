@@ -222,13 +222,12 @@ if st.button("🔍 Predict Insurance Charges", use_container_width=True):
             Estimated Insurance Charges
         </div>
 
-        <h1 style="color:#4CAF50;">
+   
             ${prediction:,.2f}
-        </h1>
-
-        <div class="small-text">
+         
+ 
             Prediction generated using Machine Learning
-        </div>
+      
     </div>
     """, unsafe_allow_html=True)
 
